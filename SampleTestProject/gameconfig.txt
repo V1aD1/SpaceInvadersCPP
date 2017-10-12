@@ -1,0 +1,7 @@
+resolution.x : 720
+resolution.y: 720
+enemy.speed : 150
+player.speed : 400
+numEnemies : 20
+projectile.speed : 200
+
